@@ -1,3 +1,3 @@
 # Primeira-Pagina-Web
 
-Essa é a minha primeira pagina web, criada ao decorrer da primeira parte do curso de HTML5 e CSS3.
+Essa é a minha primeira pagina web, que ainda está sendo feita ao decorrer do curso de HTML5 e CSS3 da plataforma alura.
